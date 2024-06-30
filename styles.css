@@ -1,0 +1,106 @@
+/* База */
+:root {
+  --font-family: "Manrope", sans-serif;
+}
+h1 {
+  font-weight: 700;
+  font-size: 20px;
+  color: #000;
+  margin: 0;
+}
+p {
+  margin: 0;
+}
+body,
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  font-family: var(--font-family);
+}
+
+/* Шапка */
+header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  width: 100vw;
+  box-sizing: border-box;
+  padding: 16px 20px;
+  background: #fff;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+  z-index: 10;
+  gap: 12px;
+}
+.header__links {
+  display: flex;
+  gap: 12px;
+}
+.header__link {
+  display: flex;
+  font-weight: 600;
+  font-size: 15px;
+  text-align: left;
+  align-items: center;
+  color: #000;
+  text-decoration: none;
+  padding: 12px;
+  border-radius: 12px;
+  border: none;
+  background: #f5f5f5;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+.header__link img {
+  margin-right: 8px;
+}
+.header__link:hover {
+  background: #d8d8d8;
+}
+.header__link:active {
+  background: #c8c8c8;
+}
+.header__links .header__link:last-child {
+  margin-right: 0;
+}
+.header__links .header__link:last-child img {
+  margin-right: 0;
+}
+
+/* Карта */
+#map {
+  flex: 1;
+  box-sizing: border-box;
+}
+
+/* Балун */
+.balloon-header {
+  font-family: var(--font-family);
+  font-weight: 600;
+  font-size: 18px;
+  color: #000;
+}
+.balloon-content {
+  font-family: var(--font-family);
+}
+.balloon-image {
+  width: 100%;
+  max-height: 300px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin: 8px 0;
+}
+.balloon-author {
+  font-weight: 500;
+  font-size: 15px;
+  color: #8a8a8a;
+}
+.balloon-link {
+  font-weight: 600;
+  font-size: 16px;
+  color: #0075ff;
+  text-decoration: none;
+}
