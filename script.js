@@ -1,6 +1,12 @@
-// Ожидание полной загрузки DOM
 document.addEventListener("DOMContentLoaded", function () {
-  ymaps.ready(init);
+  // Создание тега script для загрузки API Яндекс Карт
+  var script = document.createElement('script');
+  script.src = `https://api-maps.yandex.ru/2.1/?apikey=${encodeURIComponent(API_KEY)}&lang=ru_RU`;
+  script.type = 'text/javascript';
+  script.onload = function () {
+    ymaps.ready(init);
+  };
+  document.head.appendChild(script);
 
   // Инициализация карты
   function init() {
