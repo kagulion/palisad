@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
   // Создание тега script для загрузки API Яндекс Карт
   var script = document.createElement('script');
-  script.src = `https://api-maps.yandex.ru/2.1/?apikey=${encodeURIComponent(API_KEY)}&lang=ru_RU`;
+  script.src = `http://141.8.195.6:3000/api/map?lang=ru_RU`;
   script.type = 'text/javascript';
   script.onload = function () {
     ymaps.ready(init);
