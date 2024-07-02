@@ -69,6 +69,11 @@ header {
 .header__links .header__link:last-child img {
   margin-right: 0;
 }
+.version {
+  font-weight: 500;
+  font-size: 15px;
+  color: #8a8a8a;
+}
 
 /* Карта */
 #map {

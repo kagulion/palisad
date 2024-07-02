@@ -1,28 +1,38 @@
 <!DOCTYPE html>
 <html lang="ru">
   <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Интерактивная карта мурал-фестиваля «Палисад»</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap"
-      rel="stylesheet">
-    <link rel="stylesheet" href="/styles.css">
-    <script src="script.js"></script>    
+      rel="stylesheet" />
+    <link rel="stylesheet" href="/styles.css" />
   </head>
   <body>
     <header>
-      <h1>Интерактивная карта мурал-фестиваля «Палисад»</h1>
-        <div class="header__links">
-          <a class="header__link" href="https://vk.com/palisad2022">
-            <img src="/images/icons/vk-mark.svg" alt="Иконка Вконтакте">
-            «Палисад» Вконтакте</a>
-          <a class="header__link" href="https://vk.com/palisad2022">
-            <img src="/images/icons/github-mark.svg" alt="Иконка Github"></a>
-        </div>
+      <h1>
+        Интерактивная карта мурал-фестиваля «Палисад»
+        <span class="version">v.0.2</span>
+      </h1>
+      <div class="header__links">
+        <a class="header__link"
+          href="https://vk.com/palisad2022"
+          target="_blank">
+          <img src="/images/icons/vk-mark.svg" alt="Иконка Вконтакте" />
+          «Палисад» Вконтакте</a>
+        <a class="header__link"
+          href="https://github.com/kagulion/palisad"
+          target="_blank">
+          <img src="/images/icons/github-mark.svg" alt="Иконка Github"/></a>
+      </div>
     </header>
     <div id="map"></div>
+    <script
+      src="https://api-maps.yandex.ru/2.1/?lang=ru_RU"
+      type="text/javascript"></script>
+    <script src="script.js"></script>
   </body>
 </html>

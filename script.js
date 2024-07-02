@@ -1,12 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  // Создание тега script для загрузки API Яндекс Карт
-  var script = document.createElement('script');
-  script.src = `http://141.8.195.6:3000/api/map?lang=ru_RU`;
-  script.type = 'text/javascript';
-  script.onload = function () {
-    ymaps.ready(init);
-  };
-  document.head.appendChild(script);
+  ymaps.ready(init);
 
   // Инициализация карты
   function init() {
@@ -23,11 +16,11 @@ document.addEventListener("DOMContentLoaded", function () {
           var placemark = new ymaps.Placemark(address.coordinates, {
             balloonContentHeader: `<div class="balloon-header">${address.title}</div>`,
             balloonContentBody: `
-                      <div class="balloon-content">
-                          <img src="${address.image}" class="balloon-image">
-                          <p class="balloon-author">Автор</p>
-                          <a class="balloon-link" href="${address.link}" target="_blank">
-                          ${address.author}</a></div>`,
+                          <div class="balloon-content">
+                              <img src="${address.image}" class="balloon-image">
+                              <p class="balloon-author">Автор</p>
+                              <a class="balloon-link" href="${address.link}" target="_blank">${address.author}</a>
+                          </div>`,
             hintContent: address.title
           });
 
