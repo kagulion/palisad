@@ -14,6 +14,13 @@
     "link": "https://vk.com/effectgraff"
   },
   {
+    "title": "Козленская, 40",
+    "coordinates": [59.214910, 39.893562],
+    "image": "/images/photos/kozlenskaya-40.jpg",
+    "author": "Ar2.Ufa",
+    "link": "https://vk.com/ar2ufa"
+  },
+  {
     "title": "Вологодский драматический театр",
     "coordinates": [59.2169, 39.897586],
     "image": "/images/photos/dram.jpg",
@@ -40,6 +47,13 @@
     "image": "/images/photos/poshekhonskoe-15.jpg",
     "author": "Олег Иванов",
     "link": "https://vk.com/artist_vologda"
+  },
+  {
+    "title": "Лечебная, 15 (Ярославские краски)",
+    "coordinates": [59.212746, 39.833287],
+    "image": "/images/photos/yaroslavskie-kraski.jpg",
+    "author": "Анна Краснова",
+    "link": "https://vk.com/"
   },
   {
     "title": "Галкинская, 3",
@@ -159,6 +173,20 @@
     "image": "/images/photos/kovyrinsky-park.jpg",
     "author": "Майорова Наталья, Орехова Светлана",
     "link": "https://vk.com/artairbrush"
+  },
+  {
+    "title": "Возрождения, 74",
+    "coordinates": [59.195643, 39.833644],
+    "image": "/images/photos/vozrozhdeniya-74.jpg",
+    "author": "Александр Абросимов",
+    "link": "https://vk.com/abrosimov_a"
+  },
+  {
+    "title": "Мост 800-летия",
+    "coordinates": [59.218039, 39.910055],
+    "image": "/images/photos/most-800.jpg",
+    "author": "Антон Табатчиков",
+    "link": "https://vk.com/"
   },
   {
     "title": "Воркутинская, 3",
