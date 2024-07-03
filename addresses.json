@@ -7,11 +7,32 @@
     "link": "https://vk.com/effectgraff"
   },
   {
+    "title": "Яма",
+    "coordinates": [59.218626, 39.886364],
+    "image": "/images/photos/yama.jpg",
+    "author": "EffectGraff",
+    "link": "https://vk.com/effectgraff"
+  },
+  {
     "title": "Галкинская, 107",
     "coordinates": [59.208761, 39.881983],
     "image": "/images/photos/galkinskaya-107.jpg",
     "author": "EffectGraff",
     "link": "https://vk.com/effectgraff"
+  },
+  {
+    "title": "Маяковского, 31",
+    "coordinates": [59.227947, 39.868220],
+    "image": "/images/photos/mayakovskogo-31.jpg",
+    "author": "Елена Романовская и Астемир Кудаев",
+    "link": "https://vk.com/"
+  },
+  {
+    "title": "Октябрьская, 63",
+    "coordinates": [59.221947, 39.865211],
+    "image": "/images/photos/oktyabrskaya-6.jpg",
+    "author": "Владимир Малюгин",
+    "link": "https://vk.com/artmagnetic"
   },
   {
     "title": "Козленская, 40",
@@ -53,7 +74,14 @@
     "coordinates": [59.212746, 39.833287],
     "image": "/images/photos/yaroslavskie-kraski.jpg",
     "author": "Анна Краснова",
-    "link": "https://vk.com/"
+    "link": "https://vk.com/anya_krasno"
+  },
+  {
+    "title": "Судоремонтная, 4А",
+    "coordinates": [59.210691, 39.925578],
+    "image": "/images/photos/sudoremontnaya-4a.jpg",
+    "author": "Федоръ Дрю",
+    "link": "https://vk.com/fedor_dru"
   },
   {
     "title": "Галкинская, 3",
@@ -378,6 +406,13 @@
     "link": "https://vk.com/studio.colortown"
   },
   {
+    "title": "Советский проспект, 62",
+    "coordinates": [59.212220, 39.902868],
+    "image": "/images/photos/sovetsky-prospekt-62.jpg",
+    "author": "Илья Байдак",
+    "link": "https://vk.com/baidakiliya"
+  },
+  {
     "title": "Советский проспект, 68",
     "coordinates": [59.210138, 39.902383],
     "image": "/images/photos/sovetsky-prospekt-68-1.jpg",
@@ -395,6 +430,13 @@
     "title": "Копанка",
     "coordinates": [59.209161, 39.885711],
     "image": "/images/photos/kopanka.jpg",
+    "author": "Дмитрий (Diaz) Языков",
+    "link": "https://vk.com/topgraffitiru"
+  },
+  {
+    "title": "Разина, 25",
+    "coordinates": [59.214307, 39.919326],
+    "image": "/images/photos/razina-25.jpg",
     "author": "Дмитрий (Diaz) Языков",
     "link": "https://vk.com/topgraffitiru"
   },
