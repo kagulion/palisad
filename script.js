@@ -1,19 +1,29 @@
-document.addEventListener("DOMContentLoaded", function () {
+document.addEventListener("DOMContentLoaded", () => {
+  if (typeof ymaps === 'undefined') {
+    console.error('Yandex Maps API is not loaded');
+    return;
+  }
+
   ymaps.ready(init);
 
   // Инициализация карты
   function init() {
-    var myMap = new ymaps.Map("map", {
+    const myMap = new ymaps.Map("map", {
       center: [59.220501, 39.891523],
       zoom: 13
     });
 
     // Подгрузка данных из JSON-файла
     fetch('addresses.json')
-      .then(response => response.json())
+      .then(response => {
+        if (!response.ok) {
+          throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        return response.json();
+      })
       .then(addresses => {
         addresses.forEach(address => {
-          var placemark = new ymaps.Placemark(address.coordinates, {
+          const placemark = new ymaps.Placemark(address.coordinates, {
             balloonContentHeader: `<div class="balloon-header">${address.title}</div>`,
             balloonContentBody: `
                           <div class="balloon-content">
@@ -26,6 +36,9 @@ document.addEventListener("DOMContentLoaded", function () {
 
           myMap.geoObjects.add(placemark);
         });
+      })
+      .catch(error => {
+        console.error('Error loading addresses:', error);
       });
   }
 });
