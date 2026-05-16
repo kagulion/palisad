@@ -13,23 +13,26 @@ document.addEventListener("DOMContentLoaded", () => {
       zoom: 13
     });
 
-    // Подгрузка данных из JSON-файла
-    fetch('addresses.json')
-      .then(response => {
-        if (!response.ok) {
-          throw new Error(`HTTP error! status: ${response.status}`);
-        }
-        return response.json();
-      })
-      .then(addresses => {
+    // Подгрузка данных из JSON-файлов
+    Promise.all([
+      fetch('addresses.json').then(res => res.json()),
+      fetch('authors.json').then(res => res.json())
+    ])
+      .then(([addresses, authors]) => {
+        const authorsMap = authors.reduce((acc, author) => {
+          acc[author.id] = author;
+          return acc;
+        }, {});
+
         addresses.forEach(address => {
+          const author = authorsMap[address.authorId] || { name: 'Неизвестен', link: '#' };
           const placemark = new ymaps.Placemark(address.coordinates, {
             balloonContentHeader: `<div class="balloon-header">${address.title}</div>`,
             balloonContentBody: `
                           <div class="balloon-content">
                               <img src=".${address.image}" class="balloon-image">
                               <p class="balloon-author">Автор</p>
-                              <a class="balloon-link" href="${address.link}" target="_blank">${address.author}</a>
+                              <a class="balloon-link" href="${author.link}" target="_blank">${author.name}</a>
                           </div>`,
             hintContent: address.title
           });
@@ -38,7 +41,7 @@ document.addEventListener("DOMContentLoaded", () => {
         });
       })
       .catch(error => {
-        console.error('Error loading addresses:', error);
+        console.error('Error loading data:', error);
       });
   }
 });
