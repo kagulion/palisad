@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", () => {
             balloonContentHeader: `<div class="balloon-header">${address.title}</div>`,
             balloonContentBody: `
                           <div class="balloon-content">
-                              <img src="${address.image}" class="balloon-image">
+                              <img src=".${address.image}" class="balloon-image">
                               <p class="balloon-author">Автор</p>
                               <a class="balloon-link" href="${address.link}" target="_blank">${address.author}</a>
                           </div>`,
