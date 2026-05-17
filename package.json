@@ -1,5 +1,8 @@
 {
   "type": "module",
   "packageManager": "pnpm@11.1.2",
-  "version": "0.3"
+  "version": "0.3",
+  "dependencies": {
+    "axios": "^1.16.1"
+  }
 }
