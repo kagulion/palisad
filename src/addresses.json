@@ -574,5 +574,266 @@
     ],
     "image": "/images/photos/zalineynaya-20.jpg",
     "authorId": "author_47"
+  },
+  {
+    "title": "Левичева, 38",
+    "coordinates": [
+      59.2036521,
+      39.9063917
+    ],
+    "image": "/images/photos/levicheva-38.jpg",
+    "authorId": "author_48"
+  },
+  {
+    "title": "СОЛОДУНОВА, 53",
+    "coordinates": [
+      59.2087725,
+      39.8370415
+    ],
+    "image": "/images/photos/solodunova-53.jpg",
+    "authorId": "author_unknown"
+  },
+  {
+    "title": "Ленина, 12",
+    "coordinates": [
+      59.2208652,
+      39.8962529
+    ],
+    "image": "/images/photos/lenina-12.jpg",
+    "authorId": "author_49"
+  },
+  {
+    "title": "Преминина, 10Б",
+    "coordinates": [
+      59.1984626,
+      39.8766757
+    ],
+    "image": "/images/photos/preminina-10Б.jpg",
+    "authorId": "author_51"
+  },
+  {
+    "title": "Чернышевского, 122А",
+    "coordinates": [
+      59.2490785,
+      39.8979783
+    ],
+    "image": "/images/photos/chernyshevskogo-122А.jpg",
+    "authorId": "author_50"
+  },
+  {
+    "title": "Герцена, 1",
+    "coordinates": [
+      59.2172352,
+      39.8859859
+    ],
+    "image": "/images/photos/gertsena-1.jpg",
+    "authorId": "author_50"
+  },
+  {
+    "title": "Энгельса, 73",
+    "coordinates": [
+      59.2348543,
+      39.8967653
+    ],
+    "image": "/images/photos/engelsa-73.jpg",
+    "authorId": "author_52"
+  },
+  {
+    "title": "Ильюшина, 1А",
+    "coordinates": [
+      59.210352,
+      39.8290535
+    ],
+    "image": "/images/photos/ilyushina-1А.jpg",
+    "authorId": "author_51"
+  },
+  {
+    "title": "Ударников, 19а",
+    "coordinates": [
+      59.2293705,
+      39.8680464
+    ],
+    "image": "/images/photos/udarnikov-19а.jpg",
+    "authorId": "author_51"
+  },
+  {
+    "title": "Ловенецкого, 15",
+    "coordinates": [
+      59.1980807,
+      39.8945547
+    ],
+    "image": "/images/photos/lovenetskogo-15.jpg",
+    "authorId": "author_48"
+  },
+  {
+    "title": "Маршала Конева, 20",
+    "coordinates": [
+      59.1883667,
+      39.9006505
+    ],
+    "image": "/images/photos/marshala-koneva-20.jpg",
+    "authorId": "author_50"
+  },
+  {
+    "title": "Пугачева, 87",
+    "coordinates": [
+      59.2138654,
+      39.9425256
+    ],
+    "image": "/images/photos/pugacheva-87.jpg",
+    "authorId": "author_55"
+  },
+  {
+    "title": "Гагарина, 52",
+    "coordinates": [
+      59.2089052,
+      39.8316361
+    ],
+    "image": "/images/photos/gagarina-52.jpg",
+    "authorId": "author_48"
+  },
+  {
+    "title": "Дзержинского, 17",
+    "coordinates": [
+      59.190377,
+      39.9170169
+    ],
+    "image": "/images/photos/dzerzhinskogo-17.jpg",
+    "authorId": "author_48"
+  },
+  {
+    "title": "Новгородской, 23",
+    "coordinates": [
+      58.8441742,
+      35.2153254
+    ],
+    "image": "/images/photos/novgorodskoy-23.jpg",
+    "authorId": "author_56"
+  },
+  {
+    "title": "Разина, 58а",
+    "coordinates": [
+      59.2124537,
+      39.9340858
+    ],
+    "image": "/images/photos/razina-58а.jpg",
+    "authorId": "author_34"
+  },
+  {
+    "title": "Ярославская, 36",
+    "coordinates": [
+      59.1958782,
+      39.8731436
+    ],
+    "image": "/images/photos/yaroslavskaya-36.jpg",
+    "authorId": "author_48"
+  },
+  {
+    "title": "Герцена, 115",
+    "coordinates": [
+      59.2035074,
+      39.908996
+    ],
+    "image": "/images/photos/gertsena-115.jpg",
+    "authorId": "author_unknown"
+  },
+  {
+    "title": "Новгородская, 23",
+    "coordinates": [
+      59.1970727,
+      39.8636366
+    ],
+    "image": "/images/photos/novgorodskaya-23.jpg",
+    "authorId": "author_48"
+  },
+  {
+    "title": "Ильюшина, 10",
+    "coordinates": [
+      59.2102849,
+      39.8144584
+    ],
+    "image": "/images/photos/ilyushina-10.jpg",
+    "authorId": "author_48"
+  },
+  {
+    "title": "Козленская, 6",
+    "coordinates": [
+      59.2176297,
+      39.8885335
+    ],
+    "image": "/images/photos/kozlenskaya-6.jpg",
+    "authorId": "author_48"
+  },
+  {
+    "title": "Козлёнская, 40",
+    "coordinates": [
+      59.2148304,
+      39.8936729
+    ],
+    "image": "/images/photos/kozlenskaya-40.jpg",
+    "authorId": "author_59"
+  },
+  {
+    "title": "Окружное шоссе, 33",
+    "coordinates": [
+      59.192996,
+      39.8364797
+    ],
+    "image": "/images/photos/okruzhnoe-shosse-33.jpg",
+    "authorId": "author_60"
+  },
+  {
+    "title": "Гагарина, 66",
+    "coordinates": [
+      59.2052865,
+      39.8228702
+    ],
+    "image": "/images/photos/gagarina-66.jpg",
+    "authorId": "author_61"
+  },
+  {
+    "title": "Пролетарская, 61А",
+    "coordinates": [
+      59.223191,
+      39.8661388
+    ],
+    "image": "/images/photos/proletarskaya-61А.jpg",
+    "authorId": "author_50"
+  },
+  {
+    "title": "Ленинградская, 48",
+    "coordinates": [
+      59.2191995,
+      39.8663329
+    ],
+    "image": "/images/photos/leningradskaya-48.jpg",
+    "authorId": "author_64"
+  },
+  {
+    "title": "Фрязиновской, 33",
+    "coordinates": [
+      59.2228568,
+      39.9349564
+    ],
+    "image": "/images/photos/fryazinovskoy-33.jpg",
+    "authorId": "author_33"
+  },
+  {
+    "title": "Пошехонское шоссе, 9В",
+    "coordinates": [
+      59.2016873,
+      39.8722385
+    ],
+    "image": "/images/photos/poshehonskoe-shosse-9В.jpg",
+    "authorId": "author_unknown"
+  },
+  {
+    "title": "Козленская, 2",
+    "coordinates": [
+      59.2183695,
+      39.8880798
+    ],
+    "image": "/images/photos/kozlenskaya-2.jpg",
+    "authorId": "author_71"
   }
 ]
