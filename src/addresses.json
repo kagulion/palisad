@@ -1,839 +1,512 @@
 [
   {
     "title": "Воровского, 41",
-    "coordinates": [
-      59.221933,
-      39.868283
-    ],
+    "coordinates": [59.221933, 39.868283],
     "image": "/images/photos/vorovskogo-41.jpg",
     "authorId": "author_1"
   },
   {
     "title": "Яма",
-    "coordinates": [
-      59.218626,
-      39.886364
-    ],
+    "coordinates": [59.218626, 39.886364],
     "image": "/images/photos/yama.jpg",
     "authorId": "author_1"
   },
   {
     "title": "Галкинская, 107",
-    "coordinates": [
-      59.208761,
-      39.881983
-    ],
+    "coordinates": [59.208761, 39.881983],
     "image": "/images/photos/galkinskaya-107.jpg",
     "authorId": "author_1"
   },
   {
     "title": "Маяковского, 31",
-    "coordinates": [
-      59.227947,
-      39.86822
-    ],
+    "coordinates": [59.227947, 39.86822],
     "image": "/images/photos/mayakovskogo-31.jpg",
     "authorId": "author_2"
   },
   {
     "title": "Октябрьская, 63",
-    "coordinates": [
-      59.221947,
-      39.865211
-    ],
+    "coordinates": [59.221947, 39.865211],
     "image": "/images/photos/oktyabrskaya-6.jpg",
     "authorId": "author_3"
   },
   {
     "title": "Козленская, 40",
-    "coordinates": [
-      59.21491,
-      39.893562
-    ],
+    "coordinates": [59.21491, 39.893562],
     "image": "/images/photos/kozlenskaya-40.jpg",
     "authorId": "author_4"
   },
   {
     "title": "Вологодский драматический театр",
-    "coordinates": [
-      59.2169,
-      39.897586
-    ],
+    "coordinates": [59.2169, 39.897586],
     "image": "/images/photos/dram.jpg",
     "authorId": "author_5"
   },
   {
     "title": "Проспект Победы, 99",
-    "coordinates": [
-      59.226073,
-      39.864223
-    ],
+    "coordinates": [59.226073, 39.864223],
     "image": "/images/photos/pobedy-99.jpg",
     "authorId": "author_6"
   },
   {
     "title": "Паровозный переулок, 32",
-    "coordinates": [
-      59.199021,
-      39.888873
-    ],
+    "coordinates": [59.199021, 39.888873],
     "image": "/images/photos/par-per-32.jpg",
     "authorId": "author_7"
   },
   {
     "title": "Пошехонское шоссе, 15",
-    "coordinates": [
-      59.200021,
-      39.866109
-    ],
+    "coordinates": [59.200021, 39.866109],
     "image": "/images/photos/poshekhonskoe-15.jpg",
     "authorId": "author_8"
   },
   {
     "title": "Лечебная, 15 (Ярославские краски)",
-    "coordinates": [
-      59.212746,
-      39.833287
-    ],
+    "coordinates": [59.212746, 39.833287],
     "image": "/images/photos/yaroslavskie-kraski.jpg",
     "authorId": "author_9"
   },
   {
     "title": "Судоремонтная, 4А",
-    "coordinates": [
-      59.210691,
-      39.925578
-    ],
+    "coordinates": [59.210691, 39.925578],
     "image": "/images/photos/sudoremontnaya-4a.jpg",
     "authorId": "author_10"
   },
   {
     "title": "Галкинская, 3",
-    "coordinates": [
-      59.218726,
-      39.898017
-    ],
+    "coordinates": [59.218726, 39.898017],
     "image": "/images/photos/galkinskaya-3.jpg",
     "authorId": "author_8"
   },
   {
     "title": "1-й микрорайон ГПЗ-23, 7А",
-    "coordinates": [
-      59.213238,
-      39.818777
-    ],
+    "coordinates": [59.213238, 39.818777],
     "image": "/images/photos/gpz-7a.jpg",
     "authorId": "author_11"
   },
   {
     "title": "Батюшкова, 7",
-    "coordinates": [
-      59.220989,
-      39.884076
-    ],
+    "coordinates": [59.220989, 39.884076],
     "image": "/images/photos/batushkova-7.jpg",
     "authorId": "author_12"
   },
   {
     "title": "Клубова, 5В",
-    "coordinates": [
-      59.233821,
-      39.832881
-    ],
+    "coordinates": [59.233821, 39.832881],
     "image": "/images/photos/klubova-5b.jpg",
     "authorId": "author_8"
   },
   {
     "title": "Пошехонское шоссе, 9Б",
-    "coordinates": [
-      59.201693,
-      39.871562
-    ],
+    "coordinates": [59.201693, 39.871562],
     "image": "/images/photos/poshekhonskoe-9b.jpg",
     "authorId": "author_13"
   },
   {
     "title": "Пушкинская улица, 24",
-    "coordinates": [
-      59.2173,
-      39.889304
-    ],
+    "coordinates": [59.2173, 39.889304],
     "image": "/images/photos/pushkinskaya-24.jpg",
     "authorId": "author_8"
   },
   {
     "title": "Щетинина, 5",
-    "coordinates": [
-      59.207544,
-      39.834426
-    ],
+    "coordinates": [59.207544, 39.834426],
     "image": "/images/photos/shchetinina-5.jpg",
     "authorId": "author_14"
   },
   {
     "title": "Архангельская, 7",
-    "coordinates": [
-      59.18441,
-      39.902958
-    ],
+    "coordinates": [59.18441, 39.902958],
     "image": "/images/photos/arch-7.jpg",
     "authorId": "author_15"
   },
   {
     "title": "Советский проспект, 54",
-    "coordinates": [
-      59.213289,
-      39.901278
-    ],
+    "coordinates": [59.213289, 39.901278],
     "image": "/images/photos/sovetsky-prospekt-54.jpg",
     "authorId": "author_8"
   },
   {
     "title": "Кирпичная, 3",
-    "coordinates": [
-      59.214601,
-      39.852626
-    ],
+    "coordinates": [59.214601, 39.852626],
     "image": "/images/photos/kirpichnaya-3.jpg",
     "authorId": "author_8"
   },
   {
     "title": "Пречистенская, 44а",
-    "coordinates": [
-      59.219727,
-      39.906956
-    ],
+    "coordinates": [59.219727, 39.906956],
     "image": "/images/photos/prechistenskaya-44a.jpg",
     "authorId": "author_16"
   },
   {
     "title": "Северная, 17",
-    "coordinates": [
-      59.218921,
-      39.937382
-    ],
+    "coordinates": [59.218921, 39.937382],
     "image": "/images/photos/severnaya-17.jpg",
     "authorId": "author_17"
   },
   {
     "title": "Пошехонское шоссе, 28",
-    "coordinates": [
-      59.194546,
-      39.857674
-    ],
+    "coordinates": [59.194546, 39.857674],
     "image": "/images/photos/poshekhonskoye-shosse-28.jpg",
     "authorId": "author_6"
   },
   {
     "title": "Дальняя, 32А (Школа №14)",
-    "coordinates": [
-      59.220501,
-      39.938253
-    ],
+    "coordinates": [59.220501, 39.938253],
     "image": "/images/photos/dalnyaya-32a-1.jpg",
     "authorId": "author_18"
   },
   {
     "title": "Панкратова, 84",
-    "coordinates": [
-      59.216964,
-      39.827437
-    ],
+    "coordinates": [59.216964, 39.827437],
     "image": "/images/photos/pankratova-84.jpg",
     "authorId": "author_19"
   },
   {
     "title": "Кирова, 57",
-    "coordinates": [
-      59.218331,
-      39.866139
-    ],
+    "coordinates": [59.218331, 39.866139],
     "image": "/images/photos/kirova-57-1.png",
     "authorId": "author_20"
   },
   {
     "title": "Ковыринский сад",
-    "coordinates": [
-      59.211232,
-      39.832499
-    ],
+    "coordinates": [59.211232, 39.832499],
     "image": "/images/photos/kovyrinsky-park.jpg",
     "authorId": "author_21"
   },
   {
     "title": "Возрождения, 74",
-    "coordinates": [
-      59.195643,
-      39.833644
-    ],
+    "coordinates": [59.195643, 39.833644],
     "image": "/images/photos/vozrozhdeniya-74.jpg",
     "authorId": "author_22"
   },
   {
     "title": "Мост 800-летия",
-    "coordinates": [
-      59.218039,
-      39.910055
-    ],
+    "coordinates": [59.218039, 39.910055],
     "image": "/images/photos/most-800.jpg",
     "authorId": "author_23"
   },
   {
     "title": "Воркутинская, 3",
-    "coordinates": [
-      59.188992,
-      39.90506
-    ],
+    "coordinates": [59.188992, 39.90506],
     "image": "/images/photos/vorkutinskaya-3.jpg",
     "authorId": "author_24"
   },
   {
     "title": "Пешеходный мост",
-    "coordinates": [
-      59.223583,
-      39.900784
-    ],
+    "coordinates": [59.223583, 39.900784],
     "image": "/images/photos/peshekhodny-most.jpg",
     "authorId": "author_25"
   },
   {
     "title": "Дальняя, 32A",
-    "coordinates": [
-      59.219957,
-      39.938134
-    ],
+    "coordinates": [59.219957, 39.938134],
     "image": "/images/photos/dalnyaya-32a-2.png",
     "authorId": "author_26"
   },
   {
     "title": "Дальняя, 32А (BREAKING BEARS)",
-    "coordinates": [
-      59.221004,
-      39.939322
-    ],
+    "coordinates": [59.221004, 39.939322],
     "image": "/images/photos/dalnyaya-32a.jpg",
     "authorId": "author_27"
   },
   {
     "title": "Пионерская, 20",
-    "coordinates": [
-      59.174479,
-      39.986295
-    ],
+    "coordinates": [59.174479, 39.986295],
     "image": "/images/photos/pionerskaya-20.jfif",
     "authorId": "author_28"
   },
   {
     "title": "Преминина, 10",
-    "coordinates": [
-      59.2005,
-      39.877527
-    ],
+    "coordinates": [59.2005, 39.877527],
     "image": "/images/photos/preminina-10.png",
     "authorId": "author_29"
   },
   {
     "title": "Гончарная, 13",
-    "coordinates": [
-      59.214873,
-      39.853264
-    ],
+    "coordinates": [59.214873, 39.853264],
     "image": "/images/photos/goncharnaya-13.png",
     "authorId": "author_30"
   },
   {
     "title": "Гончарная, 13",
-    "coordinates": [
-      59.215208,
-      39.852271
-    ],
+    "coordinates": [59.215208, 39.852271],
     "image": "/images/photos/goncharnaya-13-1.jpg",
     "authorId": "author_31"
   },
   {
     "title": "Конева, 22А",
-    "coordinates": [
-      59.187973,
-      39.898539
-    ],
+    "coordinates": [59.187973, 39.898539],
     "image": "/images/photos/koneva-22a.jpg",
     "authorId": "author_31"
   },
   {
     "title": "Фрязиновская, 29Б",
-    "coordinates": [
-      59.223158,
-      39.930599
-    ],
+    "coordinates": [59.223158, 39.930599],
     "image": "/images/photos/fryazinovskaya-29b.jpg",
     "authorId": "author_32"
   },
   {
     "title": "Фрязиновская, 33",
-    "coordinates": [
-      59.22285,
-      39.934857
-    ],
+    "coordinates": [59.22285, 39.934857],
     "image": "/images/photos/fryazinovskaya-33.jpg",
     "authorId": "author_33"
   },
   {
     "title": "Пугачева, 32А",
-    "coordinates": [
-      59.210967,
-      39.928417
-    ],
+    "coordinates": [59.210967, 39.928417],
     "image": "/images/photos/pugacheva-32a.jpg",
     "authorId": "author_34"
   },
   {
     "title": "Поселковая, 6",
-    "coordinates": [
-      59.206264,
-      39.832108
-    ],
+    "coordinates": [59.206264, 39.832108],
     "image": "/images/photos/poselkovaya-6.jpg",
     "authorId": "author_34"
   },
   {
     "title": "Мохова, 37",
-    "coordinates": [
-      59.228619,
-      39.864861
-    ],
+    "coordinates": [59.228619, 39.864861],
     "image": "/images/photos/mohova-37.jpg",
     "authorId": "author_35"
   },
   {
     "title": "Пугачева, 79",
-    "coordinates": [
-      59.211962,
-      39.937561
-    ],
+    "coordinates": [59.211962, 39.937561],
     "image": "/images/photos/pugacheva-79.jpg",
     "authorId": "author_36"
   },
   {
     "title": "Мира, 19",
-    "coordinates": [
-      59.214772,
-      39.882926
-    ],
+    "coordinates": [59.214772, 39.882926],
     "image": "/images/photos/mira-19.jpg",
     "authorId": "author_37"
   },
   {
     "title": "Кремлевский сад",
-    "coordinates": [
-      59.224454,
-      39.879119
-    ],
+    "coordinates": [59.224454, 39.879119],
     "image": "/images/photos/kremlovskiy-sad.png",
     "authorId": "author_38"
   },
   {
     "title": "Судоремонтная, 42 (Библиотека №10)",
-    "coordinates": [
-      59.216313,
-      39.926179
-    ],
+    "coordinates": [59.216313, 39.926179],
     "image": "/images/photos/biblioteka-10.jpg",
     "authorId": "author_8"
   },
   {
     "title": "Судоремонтная, 2А",
-    "coordinates": [
-      59.209889,
-      39.925048
-    ],
+    "coordinates": [59.209889, 39.925048],
     "image": "/images/photos/sudoremontnaya-2a.jpg",
     "authorId": "author_39"
   },
   {
     "title": "Кирова, 57",
-    "coordinates": [
-      59.218345,
-      39.866095
-    ],
+    "coordinates": [59.218345, 39.866095],
     "image": "/images/photos/kirova-57.jpg",
     "authorId": "author_40"
   },
   {
     "title": "Путейская, 11",
-    "coordinates": [
-      59.209682,
-      39.874311
-    ],
+    "coordinates": [59.209682, 39.874311],
     "image": "/images/photos/puteiskaya-11.jpg",
     "authorId": "author_40"
   },
   {
     "title": "Городской Вал, 28",
-    "coordinates": [
-      59.218341,
-      39.922748
-    ],
+    "coordinates": [59.218341, 39.922748],
     "image": "/images/photos/gor-val-28.jpg",
     "authorId": "author_18"
   },
   {
     "title": "Марии Ульяновой, 17",
-    "coordinates": [
-      59.21776,
-      39.885467
-    ],
+    "coordinates": [59.21776, 39.885467],
     "image": "/images/photos/marii-17.jpg",
     "authorId": "author_41"
   },
   {
     "title": "Пирогова, 39",
-    "coordinates": [
-      59.20818,
-      39.89906
-    ],
+    "coordinates": [59.20818, 39.89906],
     "image": "/images/photos/pirogova-39.jpg",
     "authorId": "author_42"
   },
   {
     "title": "Гончарная, 6",
-    "coordinates": [
-      59.215923,
-      39.852725
-    ],
+    "coordinates": [59.215923, 39.852725],
     "image": "/images/photos/goncharnaya-6.jpg",
     "authorId": "author_42"
   },
   {
     "title": "Марии Ульяновой, 17",
-    "coordinates": [
-      59.217667,
-      39.885269
-    ],
+    "coordinates": [59.217667, 39.885269],
     "image": "/images/photos/marii-17-1.jpg",
     "authorId": "author_41"
   },
   {
     "title": "Советский проспект, 68",
-    "coordinates": [
-      59.21081,
-      39.903812
-    ],
+    "coordinates": [59.21081, 39.903812],
     "image": "/images/photos/sovetsky-prospekt-68.jpg",
     "authorId": "author_6"
   },
   {
     "title": "Советский проспект, 62",
-    "coordinates": [
-      59.21222,
-      39.902868
-    ],
+    "coordinates": [59.21222, 39.902868],
     "image": "/images/photos/sovetsky-prospekt-62.jpg",
     "authorId": "author_43"
   },
   {
     "title": "Советский проспект, 68",
-    "coordinates": [
-      59.210138,
-      39.902383
-    ],
+    "coordinates": [59.210138, 39.902383],
     "image": "/images/photos/sovetsky-prospekt-68-1.jpg",
     "authorId": "author_44"
   },
   {
     "title": "Герцена, 65",
-    "coordinates": [
-      59.209092,
-      39.899455
-    ],
+    "coordinates": [59.209092, 39.899455],
     "image": "/images/photos/gercena-65.jfif",
     "authorId": "author_45"
   },
   {
     "title": "Копанка",
-    "coordinates": [
-      59.209161,
-      39.885711
-    ],
+    "coordinates": [59.209161, 39.885711],
     "image": "/images/photos/kopanka.jpg",
     "authorId": "author_46"
   },
   {
     "title": "Разина, 25",
-    "coordinates": [
-      59.214307,
-      39.919326
-    ],
+    "coordinates": [59.214307, 39.919326],
     "image": "/images/photos/razina-25.jpg",
     "authorId": "author_46"
   },
   {
     "title": "Залинейная, 20",
-    "coordinates": [
-      59.237655,
-      39.846149
-    ],
+    "coordinates": [59.237655, 39.846149],
     "image": "/images/photos/zalineynaya-20.jpg",
     "authorId": "author_47"
   },
   {
     "title": "Левичева, 38",
-    "coordinates": [
-      59.2036521,
-      39.9063917
-    ],
+    "coordinates": [59.2036521, 39.9063917],
     "image": "/images/photos/levicheva-38.jpg",
     "authorId": "author_48"
   },
   {
     "title": "СОЛОДУНОВА, 53",
-    "coordinates": [
-      59.2087725,
-      39.8370415
-    ],
+    "coordinates": [59.2087725, 39.8370415],
     "image": "/images/photos/solodunova-53.jpg",
     "authorId": "author_unknown"
   },
   {
-    "title": "Ленина, 12",
-    "coordinates": [
-      59.2208652,
-      39.8962529
-    ],
-    "image": "/images/photos/lenina-12.jpg",
-    "authorId": "author_49"
-  },
-  {
     "title": "Преминина, 10Б",
-    "coordinates": [
-      59.1984626,
-      39.8766757
-    ],
+    "coordinates": [59.1984626, 39.8766757],
     "image": "/images/photos/preminina-10Б.jpg",
     "authorId": "author_51"
   },
   {
-    "title": "Чернышевского, 122А",
-    "coordinates": [
-      59.2490785,
-      39.8979783
-    ],
-    "image": "/images/photos/chernyshevskogo-122А.jpg",
-    "authorId": "author_50"
-  },
-  {
     "title": "Герцена, 1",
-    "coordinates": [
-      59.2172352,
-      39.8859859
-    ],
+    "coordinates": [59.2172352, 39.8859859],
     "image": "/images/photos/gertsena-1.jpg",
     "authorId": "author_50"
   },
   {
-    "title": "Энгельса, 73",
-    "coordinates": [
-      59.2348543,
-      39.8967653
-    ],
-    "image": "/images/photos/engelsa-73.jpg",
-    "authorId": "author_52"
-  },
-  {
-    "title": "Ильюшина, 1А",
-    "coordinates": [
-      59.210352,
-      39.8290535
-    ],
-    "image": "/images/photos/ilyushina-1А.jpg",
-    "authorId": "author_51"
-  },
-  {
     "title": "Ударников, 19а",
-    "coordinates": [
-      59.2293705,
-      39.8680464
-    ],
+    "coordinates": [59.2293705, 39.8680464],
     "image": "/images/photos/udarnikov-19а.jpg",
     "authorId": "author_51"
   },
   {
-    "title": "Ловенецкого, 15",
-    "coordinates": [
-      59.1980807,
-      39.8945547
-    ],
-    "image": "/images/photos/lovenetskogo-15.jpg",
-    "authorId": "author_48"
-  },
-  {
     "title": "Маршала Конева, 20",
-    "coordinates": [
-      59.1883667,
-      39.9006505
-    ],
+    "coordinates": [59.1883667, 39.9006505],
     "image": "/images/photos/marshala-koneva-20.jpg",
     "authorId": "author_50"
   },
   {
     "title": "Пугачева, 87",
-    "coordinates": [
-      59.2138654,
-      39.9425256
-    ],
+    "coordinates": [59.2138654, 39.9425256],
     "image": "/images/photos/pugacheva-87.jpg",
     "authorId": "author_55"
   },
   {
     "title": "Гагарина, 52",
-    "coordinates": [
-      59.2089052,
-      39.8316361
-    ],
+    "coordinates": [59.2089052, 39.8316361],
     "image": "/images/photos/gagarina-52.jpg",
     "authorId": "author_48"
   },
   {
     "title": "Дзержинского, 17",
-    "coordinates": [
-      59.190377,
-      39.9170169
-    ],
+    "coordinates": [59.190377, 39.9170169],
     "image": "/images/photos/dzerzhinskogo-17.jpg",
     "authorId": "author_48"
   },
   {
     "title": "Новгородской, 23",
-    "coordinates": [
-      58.8441742,
-      35.2153254
-    ],
+    "coordinates": [58.8441742, 35.2153254],
     "image": "/images/photos/novgorodskoy-23.jpg",
     "authorId": "author_56"
   },
   {
     "title": "Разина, 58а",
-    "coordinates": [
-      59.2124537,
-      39.9340858
-    ],
+    "coordinates": [59.2124537, 39.9340858],
     "image": "/images/photos/razina-58а.jpg",
     "authorId": "author_34"
   },
   {
     "title": "Ярославская, 36",
-    "coordinates": [
-      59.1958782,
-      39.8731436
-    ],
+    "coordinates": [59.1958782, 39.8731436],
     "image": "/images/photos/yaroslavskaya-36.jpg",
     "authorId": "author_48"
   },
   {
     "title": "Герцена, 115",
-    "coordinates": [
-      59.2035074,
-      39.908996
-    ],
+    "coordinates": [59.2035074, 39.908996],
     "image": "/images/photos/gertsena-115.jpg",
     "authorId": "author_unknown"
   },
   {
     "title": "Новгородская, 23",
-    "coordinates": [
-      59.1970727,
-      39.8636366
-    ],
+    "coordinates": [59.1970727, 39.8636366],
     "image": "/images/photos/novgorodskaya-23.jpg",
     "authorId": "author_48"
   },
   {
     "title": "Ильюшина, 10",
-    "coordinates": [
-      59.2102849,
-      39.8144584
-    ],
+    "coordinates": [59.2102849, 39.8144584],
     "image": "/images/photos/ilyushina-10.jpg",
     "authorId": "author_48"
   },
   {
     "title": "Козленская, 6",
-    "coordinates": [
-      59.2176297,
-      39.8885335
-    ],
+    "coordinates": [59.2176297, 39.8885335],
     "image": "/images/photos/kozlenskaya-6.jpg",
     "authorId": "author_48"
   },
   {
     "title": "Козлёнская, 40",
-    "coordinates": [
-      59.2148304,
-      39.8936729
-    ],
+    "coordinates": [59.2148304, 39.8936729],
     "image": "/images/photos/kozlenskaya-40.jpg",
     "authorId": "author_59"
   },
   {
     "title": "Окружное шоссе, 33",
-    "coordinates": [
-      59.192996,
-      39.8364797
-    ],
+    "coordinates": [59.192996, 39.8364797],
     "image": "/images/photos/okruzhnoe-shosse-33.jpg",
     "authorId": "author_60"
   },
   {
-    "title": "Гагарина, 66",
-    "coordinates": [
-      59.2052865,
-      39.8228702
-    ],
-    "image": "/images/photos/gagarina-66.jpg",
-    "authorId": "author_61"
-  },
-  {
     "title": "Пролетарская, 61А",
-    "coordinates": [
-      59.223191,
-      39.8661388
-    ],
+    "coordinates": [59.223191, 39.8661388],
     "image": "/images/photos/proletarskaya-61А.jpg",
     "authorId": "author_50"
   },
   {
     "title": "Ленинградская, 48",
-    "coordinates": [
-      59.2191995,
-      39.8663329
-    ],
+    "coordinates": [59.2191995, 39.8663329],
     "image": "/images/photos/leningradskaya-48.jpg",
     "authorId": "author_64"
   },
   {
     "title": "Фрязиновской, 33",
-    "coordinates": [
-      59.2228568,
-      39.9349564
-    ],
+    "coordinates": [59.2228568, 39.9349564],
     "image": "/images/photos/fryazinovskoy-33.jpg",
     "authorId": "author_33"
-  },
-  {
-    "title": "Пошехонское шоссе, 9В",
-    "coordinates": [
-      59.2016873,
-      39.8722385
-    ],
-    "image": "/images/photos/poshehonskoe-shosse-9В.jpg",
-    "authorId": "author_unknown"
-  },
-  {
-    "title": "Козленская, 2",
-    "coordinates": [
-      59.2183695,
-      39.8880798
-    ],
-    "image": "/images/photos/kozlenskaya-2.jpg",
-    "authorId": "author_71"
   }
 ]
